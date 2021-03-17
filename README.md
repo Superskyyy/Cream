@@ -7,7 +7,8 @@ Cream 是一个可部署的用于抽取弹幕视频精华的工具链，用途�
 
 ## Current status -
 Designing the first phase
-设计第一阶段中 实现抽取视频、直播平台视频弹幕。
+第一阶段 - 实现抽取视频、直播平台视频弹幕。
+第二阶段 - 分析弹幕通过规则匹配或模型检测名场面
 
 ## Roadmap
 0. Accessing major video/ streaming platforms.
