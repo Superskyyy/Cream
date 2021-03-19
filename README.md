@@ -16,6 +16,11 @@ Designing the first phase
 第一阶段 - 实现抽取视频、直播平台视频弹幕。
 第二阶段 - 分析弹幕通过规则匹配或模型检测名场面
 
+## Usage
+1. 设定指定up主/主播链接
+2. 设定日期阈值，热度阈值（nlp方式无需配置）
+3. 根据设定自动抽取符合标准的视频素材区间。
+4. 。。。TBD
 ## Roadmap
 0. Accessing major video/ streaming platforms.
 1. Rule-based extraction
